@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <show-blogs></show-blogs>
-    <!--<add-blog></add-blog>-->
+    <router-view></router-view>
   </div>
 </template>
 
